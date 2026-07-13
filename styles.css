@@ -1,0 +1,18 @@
+/* Custom styles for Interactive Web Form validation */
+
+.error-text {
+  color: red;
+  font-size: 0.85rem;
+  margin-top: 4px;
+  display: block;
+}
+
+.error-inline {
+  color: red;
+  font-size: 0.85rem;
+  margin-left: 10px;
+}
+
+.is-error {
+  border-color: red !important;
+}
